@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-CurvePlayerRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/Module.CurvePlayerRuntime.cpp.obj"
+"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/CurvePlayerFloatAsyncAction.cpp.obj"
+"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/CurvePlayerRuntimeModule.cpp.obj"
+"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/CurvePlayerRuntimeTypes.cpp.obj"
+/OUT:"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/UnrealEditor-CurvePlayerRuntime.lib"

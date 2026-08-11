@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayerruntime\\private\\curveplayerruntimetypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\projects\\curveplayerdemo\\intermediate\\build\\win64\\x64\\curveplayerdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\curveplayerruntime\\definitions.curveplayerruntime.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayerruntime\\public\\curveplayerruntimetypes.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\curveplayerruntime\\uht\\curveplayerruntimetypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

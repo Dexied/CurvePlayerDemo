@@ -1,0 +1,8 @@
+{
+	"BuildId": "55116800",
+	"Modules": 
+	{
+		"CurvePlayerEditor": "UnrealEditor-CurvePlayerEditor.dll",
+		"CurvePlayerRuntime": "UnrealEditor-CurvePlayerRuntime.dll"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CurvePlayerEditor.cpp.obj": [
+			"CurvePlayerEditor.init.gen.cpp.obj",
+			"K2Node_PlayFloatCurve.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CurvePlayerEditorModule.cpp.obj",
+			"CurvePlayerGraphNodeFactory.cpp.obj",
+			"K2Node_PlayFloatCurve.cpp.obj",
+			"SCurvePlayerPreview.cpp.obj",
+			"SGraphNode_PlayFloatCurve.cpp.obj"
+		]
+	}
+}

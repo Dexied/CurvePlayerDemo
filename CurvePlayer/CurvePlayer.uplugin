@@ -1,0 +1,26 @@
+{
+  "FileVersion": 3,
+  "Version": 101,
+  "VersionName": "1.0",
+  "FriendlyName": "Curve Player",
+  "Description": "Inline asynchronous Blueprint curve playback with native Unreal Engine curve editing.",
+  "Category": "Blueprints",
+  "CreatedBy": "",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": true,
+  "Modules": [
+    {
+      "Name": "CurvePlayerRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "PlatformAllowList": [ "Win64" ]
+    },
+    {
+      "Name": "CurvePlayerEditor",
+      "Type": "UncookedOnly",
+      "LoadingPhase": "Default",
+      "PlatformAllowList": [ "Win64" ]
+    }
+  ]
+}

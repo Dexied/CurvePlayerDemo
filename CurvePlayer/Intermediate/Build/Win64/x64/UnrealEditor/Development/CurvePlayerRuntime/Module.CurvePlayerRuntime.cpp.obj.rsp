@@ -1,0 +1,14 @@
+"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/Module.CurvePlayerRuntime.cpp"
+@"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/CurvePlayerRuntime.Shared.rsp"
+/FI"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/Definitions.CurvePlayerRuntime.h"
+/Yu"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/Module.CurvePlayerRuntime.cpp.obj"
+/experimental:log "B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/Module.CurvePlayerRuntime.cpp.sarif"
+/sourceDependencies "B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerRuntime/Module.CurvePlayerRuntime.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

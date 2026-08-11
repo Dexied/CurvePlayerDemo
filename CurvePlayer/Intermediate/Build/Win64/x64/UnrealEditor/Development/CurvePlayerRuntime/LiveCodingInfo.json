@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CurvePlayerRuntime.cpp.obj": [
+			"CurvePlayerFloatAsyncAction.gen.cpp.obj",
+			"CurvePlayerRuntime.init.gen.cpp.obj",
+			"CurvePlayerRuntimeTypes.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CurvePlayerFloatAsyncAction.cpp.obj",
+			"CurvePlayerRuntimeModule.cpp.obj",
+			"CurvePlayerRuntimeTypes.cpp.obj"
+		]
+	}
+}

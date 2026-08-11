@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayereditor\\private\\curveplayereditormodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\projects\\curveplayerdemo\\intermediate\\build\\win64\\x64\\curveplayerdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\curveplayereditor\\definitions.curveplayereditor.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayereditor\\public\\curveplayergraphnodefactory.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\unrealed\\public\\edgraphutilities.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

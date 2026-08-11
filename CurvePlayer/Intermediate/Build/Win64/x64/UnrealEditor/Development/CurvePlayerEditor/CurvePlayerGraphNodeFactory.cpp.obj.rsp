@@ -1,0 +1,14 @@
+"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Source/CurvePlayerEditor/Private/CurvePlayerGraphNodeFactory.cpp"
+@"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerEditor/CurvePlayerEditor.Shared.rsp"
+/FI"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerEditor/Definitions.CurvePlayerEditor.h"
+/Yu"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"B:/Projects/CurvePlayerDemo/Intermediate/Build/Win64/x64/CurvePlayerDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerEditor/CurvePlayerGraphNodeFactory.cpp.obj"
+/experimental:log "B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerEditor/CurvePlayerGraphNodeFactory.cpp.sarif"
+/sourceDependencies "B:/Projects/CurvePlayerDemo/Plugins/CurvePlayer/Intermediate/Build/Win64/x64/UnrealEditor/Development/CurvePlayerEditor/CurvePlayerGraphNodeFactory.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

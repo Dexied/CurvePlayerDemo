@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayereditor\\private\\sgraphnode_playfloatcurve.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\projects\\curveplayerdemo\\intermediate\\build\\win64\\x64\\curveplayerdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\curveplayereditor\\definitions.curveplayereditor.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayereditor\\public\\sgraphnode_playfloatcurve.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\grapheditor\\public\\kismetnodes\\sgraphnodek2default.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\grapheditor\\public\\kismetnodes\\sgraphnodek2base.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\grapheditor\\public\\sgraphnode.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\runtime\\engine\\public\\diffresults.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\grapheditor\\uht\\snodepanel.generated.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayerruntime\\public\\curveplayerruntimetypes.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\curveplayerruntime\\uht\\curveplayerruntimetypes.generated.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayereditor\\public\\k2node_playfloatcurve.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_asyncaction.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_baseasynctask.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\uht\\k2node_baseasynctask.generated.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\uht\\k2node_asyncaction.generated.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\curveplayereditor\\uht\\k2node_playfloatcurve.generated.h",
+            "b:\\projects\\curveplayerdemo\\plugins\\curveplayer\\source\\curveplayereditor\\public\\scurveplayerpreview.h",
+            "b:\\unrealengine\\ue_5.8\\engine\\source\\runtime\\engine\\public\\grapheditaction.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
